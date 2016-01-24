@@ -1,0 +1,1 @@
+Sample project that displays how to write custom annotation to extract form data values as a map into an appropriately annotated method parameter
